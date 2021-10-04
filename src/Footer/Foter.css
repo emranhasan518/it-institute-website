@@ -1,0 +1,23 @@
+.footer{
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    color:#fff
+}
+.welcome-text{
+    padding-top: 5px;
+}
+.youtube{
+    display: inline;
+    margin-left: 20px;
+}
+.youtube-text{
+    display: inline;
+}
+.facebook{
+    color: blue;
+    margin-left: 20px;
+     display: inline;
+}
+.facebook-text{
+    display: inline;
+}

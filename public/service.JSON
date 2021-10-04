@@ -1,0 +1,39 @@
+[
+    {
+        "name":"AWS CloudFormation Master Class v2 [2021]",
+        "title":"Write Complete AWS CloudFormation Templates using YAML. Learn all the Recent Cloud Formation Features",
+        "price":150,
+        "created":"Stephane Maarek",
+        "key":6,
+        "img":"https://img-c.udemycdn.com/course/480x270/1362052_0bbe_6.jpg"
+        
+    },
+    {
+        "name":"Git & GitHub - The Practical Guide",
+        "title":"Learn Git & GitHub and master working with commits, branches, the stash, cherry picking, rebasing, pull requests & more!",
+        "price":130,
+        "created":"Maximilian Schwarzmüller",
+        "key":8,
+        "img":"https://img-c.udemycdn.com/course/480x270/4188320_d3e3_3.jpg"
+        
+    },
+    {
+        "name":"NestJS Zero to Hero TypeScript Back-end Development",
+        "title":"Develop and deploy enterprise back-end applications following best practices using Node.js and TypeScript",
+        "price":98,
+        "created":"Ariel Weinberger",
+        "key":3,
+        "img":"https://img-c.udemycdn.com/course/480x270/2053219_e620_2.jpg"
+        
+    },
+    {
+        "name":"MongoDB - The Complete Developer's Guide 2021",
+        "title":"Master MongoDB Development for Web & Mobile Apps. CRUD Operations, Indexes, Aggregation Framework - All about MongoDB!",
+        "price":120,
+        "created":"Ariel Weinberger",
+        "key":4,
+        "img":"https://img-c.udemycdn.com/course/480x270/1906852_93c6_2.jpg"
+        
+    }
+    
+]

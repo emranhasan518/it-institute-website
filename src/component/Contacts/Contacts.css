@@ -1,0 +1,18 @@
+.contact-img{
+    height: 400px;
+    background-image: url('../../img/company.png');
+    background-repeat: no-repeat;
+}
+.contact-h2{
+    font-weight: bold;
+    font-size: 50px;
+}
+.Office-img{
+    height: 200px;
+    width: 100%;;
+}
+.contact{
+    margin-left: 15%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

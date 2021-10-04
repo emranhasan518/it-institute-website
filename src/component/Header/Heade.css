@@ -1,0 +1,26 @@
+.items {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 22px;
+    font-weight: 500;
+    color: rgb(3, 3, 3);
+    cursor: pointer;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .items:hover {
+    color: red;
+  }
+
+.navbar{
+    border:1px solid gray;
+    background-color :rgb(250, 234, 236);
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px gray;
+
+}
+.menu-container{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  
+}
